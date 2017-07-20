@@ -1,0 +1,14 @@
+﻿{
+  "Logging": {
+    "IncludeScopes": false,
+    "LogLevel": {
+      "Default": "Debug",
+      "System": "Information",
+      "Microsoft": "Information"
+    }
+  },
+  "Data": {
+    "ConnectionString": "Data Source=STAN-HP\\SQL2012;Initial Catalog=SquareTeamsDB;Integrated Security=False;Persist Security Info=False;User ID=squareteamsservice;Password=dev123456;Connect Timeout=120",
+    "providerName": "System.Data.SqlClient"
+  }
+}

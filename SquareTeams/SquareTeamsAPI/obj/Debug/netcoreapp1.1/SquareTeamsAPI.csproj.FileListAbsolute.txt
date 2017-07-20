@@ -1,0 +1,10 @@
+/Users/cheriexu/Documents/Projects/SquareTeamsAPI/SquareTeams/SquareTeamsAPI/bin/Debug/netcoreapp1.1/SquareTeamsAPI.deps.json
+/Users/cheriexu/Documents/Projects/SquareTeamsAPI/SquareTeams/SquareTeamsAPI/bin/Debug/netcoreapp1.1/SquareTeamsAPI.runtimeconfig.json
+/Users/cheriexu/Documents/Projects/SquareTeamsAPI/SquareTeams/SquareTeamsAPI/bin/Debug/netcoreapp1.1/SquareTeamsAPI.runtimeconfig.dev.json
+/Users/cheriexu/Documents/Projects/SquareTeamsAPI/SquareTeams/SquareTeamsAPI/bin/Debug/netcoreapp1.1/SquareTeamsAPI.dll
+/Users/cheriexu/Documents/Projects/SquareTeamsAPI/SquareTeams/SquareTeamsAPI/bin/Debug/netcoreapp1.1/SquareTeamsAPI.pdb
+/Users/cheriexu/Documents/Projects/SquareTeamsAPI/SquareTeams/SquareTeamsAPI/obj/Debug/netcoreapp1.1/SquareTeamsAPI.csprojResolveAssemblyReference.cache
+/Users/cheriexu/Documents/Projects/SquareTeamsAPI/SquareTeams/SquareTeamsAPI/obj/Debug/netcoreapp1.1/SquareTeamsAPI.csproj.CoreCompileInputs.cache
+/Users/cheriexu/Documents/Projects/SquareTeamsAPI/SquareTeams/SquareTeamsAPI/obj/Debug/netcoreapp1.1/SquareTeamsAPI.AssemblyInfo.cs
+/Users/cheriexu/Documents/Projects/SquareTeamsAPI/SquareTeams/SquareTeamsAPI/obj/Debug/netcoreapp1.1/SquareTeamsAPI.dll
+/Users/cheriexu/Documents/Projects/SquareTeamsAPI/SquareTeams/SquareTeamsAPI/obj/Debug/netcoreapp1.1/SquareTeamsAPI.pdb

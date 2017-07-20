@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dao/UserDao.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="ScaffoldingReadMe.txt" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="1" Column="1" />
+      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Models/Team.cs" Line="1" Column="1" />
+      <File FileName="Models/LoginTrack.cs" Line="1" Column="1" />
+      <File FileName="Models/EntityDataHelper.cs" Line="1" Column="1" />
+      <File FileName="DataContracts/Response.cs" Line="1" Column="1" />
+      <File FileName="DataContracts/TeamModifyRequest.cs" Line="1" Column="1" />
+      <File FileName="Controllers/UserController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/TeamController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/LoginTrackController.cs" Line="1" Column="1" />
+      <File FileName="Dao/LoginTrackDao.cs" Line="1" Column="1" />
+      <File FileName="Dao/TeamDao.cs" Line="1" Column="1" />
+      <File FileName="Dao/UserDao.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
